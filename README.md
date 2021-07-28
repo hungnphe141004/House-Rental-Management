@@ -1,0 +1,2 @@
+# House-Rental-Management
+ A web application for users looking for a rent house. HOUSE RENTAL MANAGEMENT allows users to register, login, see all rooms in detail, and request to rent a room- which one is available. The owner of the building plays a role as ADMIN who can manage rooms such as add rooms, edit rooms, delete rooms, and receive orders from customers. Besides, the admin can have all information about customers who used their service.
